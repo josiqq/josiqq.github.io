@@ -1,10 +1,10 @@
-tag1:
+users:
   name: users
 
-tag2:
+documents:
   name: documents
 
-tag3:
+downloads:
   name: downloads
 
 
