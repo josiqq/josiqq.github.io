@@ -1,5 +1,5 @@
 ---
 layout: default
 title: "my first post"
-tags: tag1
+tags: documents
 ---
