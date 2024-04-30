@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: me
 title: test page
 ---
 
@@ -14,7 +14,7 @@ print("Hello world")
 
 ```java
 public class HelloWorld {
-    
+
     public static void main(String[]args) {
 
         System.out.print("Hello World");
