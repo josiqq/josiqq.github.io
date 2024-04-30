@@ -1,6 +1,6 @@
 ---
-layout: me
-title: test page
+layout: default
+title: system
 ---
 
 # Hello world
